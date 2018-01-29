@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a senior at NYU studying computer science. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like Steven Universe and fun facts about evolution. 
 
