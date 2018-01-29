@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Shiyang, a senior majoring in Computer Science. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like Steven Universe and fun facts about evolution. 
 
